@@ -1,1 +1,2 @@
-Este é um projeto do curso Git e GitHub DevSuperior.
+# Este é um projeto do curso Git e GitHub DevSuperior.
+
